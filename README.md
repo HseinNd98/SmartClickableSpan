@@ -19,7 +19,7 @@ allprojects {
 Step 2. Add the dependency:
 ```
 dependencies {
-        implementation 'com.github.HseinNd98:SmartClickableSpan:0.1.0'
+        implementation 'com.github.HseinNd98:SmartClickableSpan:v0.1.5'
 }
 ```
 
@@ -38,7 +38,7 @@ Step 2. Add the dependency:
 <dependency>
     <groupId>com.github.HseinNd98</groupId>
     <artifactId>SmartClickableSpan</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.5</version>
 </dependency>
 ```
 
