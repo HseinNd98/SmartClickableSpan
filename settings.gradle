@@ -1,0 +1,3 @@
+include ':SmartClickableSpan'
+include ':app'
+rootProject.name = "SmartClickableSpanLibrary"
