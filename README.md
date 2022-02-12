@@ -113,5 +113,4 @@ new SmartClickableSpan
 - **Minimum Android SDK:** requires a minimum API level of 15
 
 ## Applications using this library:
-Let me know if you used this library at mr.husseinnd@gmail.com, so I can list your app below!
 - [**CookFeed**](https://play.google.com/store/apps/details?id=com.cookfeed.recipes)
